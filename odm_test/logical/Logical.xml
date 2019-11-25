@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="19D349A1-C4B4-168F-3FCF-8523D557A3C6" mainViewID="0BD03449-8F77-EF93-82BD-65CAAFD51810">
+<createdBy>mnebot</createdBy>
+<createdTime>2019-11-25 17:56:40 UTC</createdTime>
+<ownerDesignName>odm_test</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

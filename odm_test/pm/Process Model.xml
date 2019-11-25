@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="C36171F4-0425-D21F-3357-3213F236A4B1">
+<createdBy>mnebot</createdBy>
+<createdTime>2019-11-25 17:56:40 UTC</createdTime>
+<ownerDesignName>odm_test</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

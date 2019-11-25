@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BusinessInfoDesign class="oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign" name="Business Information" id="EBF43F65-BECB-3A29-8CEB-104ED1D65C2B">
+<createdBy>mnebot</createdBy>
+<createdTime>2019-11-25 17:56:40 UTC</createdTime>
+<ownerDesignName>odm_test</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</BusinessInfoDesign>
